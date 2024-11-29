@@ -35,8 +35,6 @@ export default {
 				'safe-bottom': 'env(safe-area-inset-bottom)'
 			}
 		}
-		padding{
-		}
 	},
 	plugins: [require('@tailwindcss/typography')]
 };
