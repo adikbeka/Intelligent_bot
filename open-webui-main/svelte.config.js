@@ -22,6 +22,7 @@ const config = {
 
 		handler(warning);
 	}
+	handler(pass)
 };
 
 export default config;
